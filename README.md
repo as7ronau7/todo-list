@@ -6,3 +6,4 @@ Simple Todo project
 - Add icon to delete tasks vs hover effect to turn li red
 - Add a section showing completed tasks after deleting it
 - Work on better styling
+- Refactor code
